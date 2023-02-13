@@ -24,7 +24,7 @@ body{
      font-size: 60px;
  }
  #profile-pic{
-     background-image: url("logo2.jpg");
+     background-image: url(logo2.jpg);
      background-size: cover;
      margin-right: auto;
      margin-left: auto;
@@ -191,7 +191,7 @@ body{
  
  }
  .zhongli{
-     background-image: url("DHONI.jpg");
+     background-image: url(DHONI.jpg);
      border: 5px solid rgb(233, 168, 4);
      width:775px;
      height:400px;
