@@ -5,7 +5,7 @@ body{
      
  }
  header{
-     background-image: url(images2/banner.jpg);
+     background-image: url(banner.jpg);
      background-size: cover;
      background-position: 00px 550px;
      display: flex;
@@ -24,7 +24,7 @@ body{
      font-size: 60px;
  }
  #profile-pic{
-     background-image: url("images2/logo2.jpg");
+     background-image: url("logo2.jpg");
      background-size: cover;
      margin-right: auto;
      margin-left: auto;
@@ -71,7 +71,7 @@ body{
      margin-right: auto;
      margin-left: auto;
      font-size: 50px;
-     background-image: url("images2/liyue.png") ;
+     background-image: url("liyue.png") ;
       
      border-style: solid;
      border-width: 5px;
@@ -92,7 +92,7 @@ body{
      margin-right: auto;
      margin-left: auto;
      font-size: 50px;
-     background-image: url("images2/sumeru.png") ;
+     background-image: url("sumeru.png") ;
       
      border-style: solid;
      border-width: 5px;
@@ -113,7 +113,7 @@ body{
      margin-right: auto;
      margin-left: auto;
      font-size: 50px;
-     background-image: url("images2/inazuma.jpg") ;
+     background-image: url("inazuma.jpg") ;
      background-size: 100%;
       
      border-style: solid;
@@ -191,7 +191,7 @@ body{
  
  }
  .zhongli{
-     background-image: url("images2/DHONI.jpg");
+     background-image: url("DHONI.jpg");
      border: 5px solid rgb(233, 168, 4);
      width:775px;
      height:400px;
@@ -207,7 +207,7 @@ body{
  
  }    
  .al{
-     background-image: url("images2/KOHLI.jpg");
+     background-image: url("KOHLI.jpg");
      width:800px;
      height:500px;
      background-size: 100%;
@@ -218,7 +218,7 @@ body{
  }
  
  .ayato{
-     background-image: url("images2/ROHIT.jpg");
+     background-image: url("ROHIT.jpg");
      width:800px;
      height:450px;
      background-size: 100%;
